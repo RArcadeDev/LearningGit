@@ -1,0 +1,6 @@
+# Git Expample
+This here is a repo for trying out git and github.
+
+## What is Git?
+Git is a **version control** software. It maintains differnet versions of our code/project as well as a history of our changes.
+
